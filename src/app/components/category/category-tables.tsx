@@ -35,13 +35,13 @@ const CategoryTables = () => {
 
               <thead>
                 <tr className="border-b border-gray6 text-tiny">
-                  <th scope="col" className="pr-8 py-3 text-tiny text-text2 uppercase font-semibold">
+                  <th scope="col" className="px-3 py-3 text-tiny text-text2 uppercase font-semibold w-[170px]">
                     ID
                   </th>
                   <th scope="col" className="px-3 py-3 text-tiny text-text2 uppercase font-semibold w-[170px]">
                     Name
                   </th>
-                  <th scope="col" className="px-3 py-3 text-tiny text-text2 uppercase font-semibold w-[150px] text-end">
+                  <th scope="col" className="px-3 py-3 text-tiny text-text2 uppercase font-semibold w-[100px] text-end">
                     Items
                   </th>
                   <th scope="col" className="px-9 py-3 text-tiny text-text2 uppercase  font-semibold w-[12%] text-end">
